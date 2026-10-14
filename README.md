@@ -1,5 +1,4 @@
-# DS102_LAB
-# DS102 - Statistical Machine Learning
+# DS102_Statistical_Machine_Learning_LAB
 
 This repository contains my practical exercises for the DS102 course.
 
